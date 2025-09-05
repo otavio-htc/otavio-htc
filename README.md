@@ -6,15 +6,20 @@
 </h3>
 
 <p>
-  Profissional empenhado e dedicado à melhoria contínua  
+  Sempre em busca de aprender, evoluir e entregar melhores resultados.   
 </p>
+
+<div>
+  <a href="https://www.linkedin.com/in/otaviohtc/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  
+</div>
 
 <h3>Projetos Atuais:</h3>
 <ul>
   <li>Sistema IoT para monitoramento agrícola em larga escaala utilizando o protocolo ESP-NOW</li>
 </ul>
 
-<div style="display: flex; flex-direction: row">
+<div>
   <div>
     <h4>Soft Skills</h4>
     <ul>
