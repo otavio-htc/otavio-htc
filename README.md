@@ -1,11 +1,11 @@
 <h2><strong>Otávio</strong> Henrique Torres <strong>Camargo</strong></h2>
-<h3><i>"The only true wisdom is in knowing you know nothing." - Socrates</i></h3>
+<h3 align="center"><i>"The only true wisdom is in knowing you know nothing." - Socrates</i></h3>
 
 <h3>
   Desenvolvedor Fullstack | Apaixonado por novos desafios
 </h3>
 
-<p align="center">
+<p>
   Profissional empenhado e dedicado à melhoria contínua  
 </p>
 
