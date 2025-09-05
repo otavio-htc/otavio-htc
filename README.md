@@ -63,6 +63,14 @@
     </td>
     <td valign="top" width="50%">
       <h4>💻 Hard Skills</h4>
+      <ul>
+          <li>HTML & CSS</li>
+          <li>Java & JavaScript</li>
+          <li>C & SQL</li>
+          <li>Cypress</li>
+          <li>Kanban/Scrum</li>
+          <li>Git</li>
+      </ul>
       <p align="left">
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=html,css,java,js,c,mysql,cypress,git,scrum,kanban" />
@@ -90,6 +98,14 @@
       </td>
       <td valign="top" width="50%">
         <h4>💻 Hard Skills</h4>
+        <ul>
+          <li>HTML & CSS</li>
+          <li>Java & JavaScript</li>
+          <li>C & SQL</li>
+          <li>Cypress</li>
+          <li>Kanban/Scrum</li>
+          <li>Git</li>
+        </ul>
         <p align="left">
           <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=html,css,java,js,c,mysql,cypress,git,scrum,kanban" />
