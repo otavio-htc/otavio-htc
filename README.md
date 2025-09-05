@@ -9,9 +9,10 @@
   Profissional empenhado e dedicado à melhoria contínua  
 </p>
 
-<p align="right">
-  Atualmente desenvolvendo um sistema IoT para mmonitoramento agrícola em larga escala utilizando o protocolo ESP-NOW com projeto de conclusão de curso
-</p>
+<h3>Projetos Atuais:</h3>
+<ul>
+  <li>Sistema IoT para monitoramento agrícola em larga escaala utilizando o protocolo ESP-NOW</li>
+</ul>
 
 <h4>Soft Skills</h4>
 <ul>
