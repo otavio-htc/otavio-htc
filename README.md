@@ -13,7 +13,7 @@
   </p>
 
   <details>
-    <summary>🇧🇷 Ver em Português</summary>
+    <summary>Ver em Português</summary>
     <p>
       Desenvolvedor Fullstack 👋 | Apaixonado por novos desafios.
       <br>
@@ -31,14 +31,14 @@
 
 ---
 
-### 🚀 Current Projects:
+🚀 Current Projects:
 <ul>
   <li>IoT system for large-scale agricultural monitoring using the ESP-NOW protocol</li>
 </ul>
 
 <details>
-  <summary>🇧🇷 Ver em Português</summary>
-  ### 🚀 Projetos Atuais:
+  <summary>Ver em Português</summary>
+  🚀 Projetos Atuais:
   <ul>
     <li>Sistema IoT para monitoramento agrícola em larga escala utilizando o protocolo ESP-NOW</li>
   </ul>
@@ -46,7 +46,7 @@
 
 ---
 
-### 🛠️ Skills
+🛠️ Skills
 
 <table>
   <tr>
@@ -81,8 +81,8 @@
 </table>
 
 <details>
-  <summary>🇧🇷 Ver em Português</summary>
-  ### 🛠️ Habilidades
+  <summary>Ver em Português</summary>
+  🛠️ Habilidades
   <table>
     <tr>
       <td valign="top" width="50%">
